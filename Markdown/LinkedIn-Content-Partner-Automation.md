@@ -2,7 +2,7 @@
 
 Part 2 | Connect your AI to the tools that publish, engage, and measure | By Crystal Jones
 
-Part 1 set up your content partner: a project or Gem, your source files, your instructions, and a monthly review. Everything in Part 1 works by hand and costs nothing. This guide connects your AI to tools that do the busywork for you: publishing your approved posts, engaging with people and posts in your field, and pulling your numbers.
+Part 1 set up your content partner: a project or Gemini skill, your source files, your instructions, and a monthly review. Everything in Part 1 works by hand and costs nothing. This guide connects your AI to tools that do the busywork for you: publishing your approved posts, engaging with people and posts in your field, and pulling your numbers.
 
 Remember why you're doing this: it's your networking strategy, not social media. Automation gives you back the time to do the part that builds relationships, engaging with people.
 
@@ -66,7 +66,7 @@ What to know about each one:
 |---|---|---|
 | SocialBu Tier 2 | Schedules LinkedIn and X. Your AI reads analytics through it. Inbox and Listen | $129 one time |
 | Reach MCP | LinkedIn engagement and reading LinkedIn posts | $49 one time |
-| Gemini Gem | Drafting | $0 |
+| Gemini skill | Drafting | $0 |
 | LinkedIn analytics export | Monthly review | $0 |
 | **Total** | | **$178 one time** |
 
@@ -76,7 +76,7 @@ What to know about each one:
 |---|---|---|
 | AdaptlyPost Tier 1, in place of SocialBu | Schedules LinkedIn and X. Your AI reads analytics through it | $59 one time |
 | Reach MCP | LinkedIn engagement and reading LinkedIn posts | $49 one time |
-| Gemini Gem | Drafting | $0 |
+| Gemini skill | Drafting | $0 |
 | LinkedIn analytics export | Monthly review | $0 |
 | **Total** | | **$108 one time** |
 
@@ -84,7 +84,7 @@ What to know about each one:
 
 | Piece | What it covers | Cost |
 |---|---|---|
-| Gemini Gem | Drafting | $0 |
+| Gemini skill | Drafting | $0 |
 | Schedule & Chill | Schedules LinkedIn, 500 posts a month | $0 |
 | PostMCP AI | Schedules X, 20 credits a month | $0 |
 | LinkedIn analytics export | Monthly review | $0 |
