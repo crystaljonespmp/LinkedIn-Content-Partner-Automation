@@ -25,6 +25,13 @@ Why it matters:
 
 These companies change their plans often, so check before you buy anything.
 
+### Connect a tool in Gemini
+
+1. Open Gemini's **Settings**, then **Personal Intelligence**, then **Connected Apps**.
+2. Click **+ Custom** in the top right.
+3. Paste the tool's MCP server URL. It starts with https://, and each tool's site lists it.
+4. Click **Next**, sign in to the tool, and approve the access it asks for.
+
 ## The tools
 
 No single tool does everything. Schedulers publish your posts. Some let your AI read your analytics. Only Reach works inside LinkedIn to engage with other people.
