@@ -4,6 +4,8 @@ Part 2 | Connect your AI to the tools that publish, engage, and measure | By Cry
 
 Part 1 set up your content partner: a project or Gem, your source files, your instructions, and a monthly review. Everything in Part 1 works by hand and costs nothing. This guide connects your AI to tools that do the busywork for you: publishing your approved posts, engaging with people and posts in your field, and pulling your numbers.
 
+Remember why you're doing this: it's your networking strategy, not social media. Automation gives you back the time to do the part that builds relationships, engaging with people.
+
 Haven't set up Part 1 yet? Start with [LinkedIn Content Partner: Setup](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Setup).
 
 ## What MCP is
@@ -13,7 +15,7 @@ MCP stands for Model Context Protocol. It's an open standard that lets an AI ass
 Why it matters:
 
 - **Your AI goes from advisor to doer.** It stops telling you what to do and does it, in your scheduler, your inbox, and LinkedIn.
-- **No more copying and pasting.** Without MCP, every post means copy, open LinkedIn, paste, fix the formatting, pick a date and time, and confirm. With MCP, you approve the posts and say one sentence.
+- **No more copying and pasting.** Without MCP, every post means copy, open LinkedIn, paste, fix the formatting, pick a date and time, and confirm. With MCP, you approve the posts and say one sentence. In my experience, two weeks of posts by hand takes an hour and a half to two hours. With automation, it can take as little as an hour, whether that's two weeks or a whole month, depending on how heavy the month's content is.
 - **You stay in control.** You approve what the AI can see and what it can do.
 
 ## Which AI you can use
