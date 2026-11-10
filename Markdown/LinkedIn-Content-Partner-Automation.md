@@ -14,7 +14,7 @@ MCP stands for Model Context Protocol. It's an open standard that lets an AI ass
 
 Why it matters:
 
-- **Your AI goes from advisor to doer.** It stops telling you what to do and does it, in your scheduler, your inbox, and LinkedIn.
+- **Your AI goes from drafting to doing.** It already helps you draft your posts. With MCP, it also does the busywork: scheduling your posts, engaging on LinkedIn, and pulling your numbers.
 - **No more copying and pasting.** Without MCP, every post means copy, open LinkedIn, paste, fix the formatting, pick a date and time, and confirm. With MCP, you approve the posts and say one sentence. In my experience, two weeks of posts by hand takes an hour and a half to two hours. With automation, it can take as little as an hour, whether that's two weeks or a whole month, depending on how heavy the month's content is.
 - **You stay in control.** You approve what the AI can see and what it can do.
 
@@ -136,6 +136,7 @@ SCHEDULING
 ENGAGEMENT
 - When I say "find people," search LinkedIn for [the people you want to reach, like recruiters and hiring managers for my target roles] and show me a numbered list with why each one is worth connecting with. For the ones I pick, draft a short, specific connection note. Send nothing until I approve.
 - When I say "find posts," search LinkedIn for posts about [topics in my field] from the last week and show me a numbered list. For the ones I pick, draft a comment that adds something from my experience. Send nothing until I approve.
+- When I say "check comments," show me new comments on my recent posts and draft a reply to each one. Send nothing until I approve.
 - When I say "follow up," summarize my unread LinkedIn messages and draft replies. Send nothing until I approve.
 - When I share a LinkedIn post link, read it with Reach.
 
@@ -150,6 +151,7 @@ ANALYTICS
 - "Schedule my approved posts on our days and times."
 - "Find 5 posts about [topic] from this week and draft comments."
 - "Find 10 recruiters for [target role] and draft connection notes."
+- "Check comments: draft replies to new comments on my posts."
 - "Follow up: summarize my unread LinkedIn messages and draft replies."
 - "Pull my numbers for last month and run my monthly review."
 - "Check in: how are this month's posts doing so far?"
