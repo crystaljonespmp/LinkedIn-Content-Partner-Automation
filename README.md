@@ -13,7 +13,7 @@ Start with Part 1 if you haven't: [LinkedIn Content Partner: Setup](https://gith
 
 ## The slides
 
-The full presentation, with speaker notes on every slide: [Download the slides](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Automation/raw/main/PowerPoint/LinkedIn-Content-Partner-Automation-Slides.pptx). Open it in PowerPoint or upload it to Google Slides. A few slides still have placeholder boxes where tool screenshots will go.
+The full presentation, with speaker notes on every slide: [Download the slides](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Automation/raw/main/PowerPoint/LinkedIn-Content-Partner-Automation-Slides.pptx). Open it in PowerPoint or upload it to Google Slides.
 
 ## How to get the files
 
