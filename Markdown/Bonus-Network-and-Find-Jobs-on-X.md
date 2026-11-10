@@ -78,7 +78,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
 - The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
-- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend up to 3 changes to my X plan.
+- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend changes to my X plan, ranked from most to least impact, with the numbers behind each one.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
@@ -95,7 +95,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
 - The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
-- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend up to 3 changes to my X plan.
+- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend changes to my X plan, ranked from most to least impact, with the numbers behind each one.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
