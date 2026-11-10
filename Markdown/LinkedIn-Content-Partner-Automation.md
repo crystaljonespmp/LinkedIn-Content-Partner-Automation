@@ -40,13 +40,13 @@ No single tool does everything. Schedulers publish your posts. Some let your AI 
 
 | Tool | Cost | LinkedIn | X | Your AI reads analytics | Engagement |
 |---|---|---|---|---|---|
-| SocialBu Tier 2 | $129 lifetime | 1,500 posts a month | Included. 20 posts with links a month | Yes | Inbox, Listen |
-| AdaptlyPost Tier 1 | $59 lifetime | Unlimited | 200 credits a month, 2 per post | Yes, with 180 days of history | No |
-| Schedule & Chill | Free | 500 posts a month, 2 channels | $9 a month add-on | No. Free dashboard | No |
-| PostMCP AI | Free | 20 credits a month | Included | Yes, 1 credit per lookup | No |
-| Typefully | Free | 10 posts a month, all platforms | Included | No. Analytics are paid only | No |
-| BulkPublish | Free | 30 posts a month, 3 in the queue | Pay-as-you-go credits | Yes | No |
-| Reach MCP | $49 lifetime | Engagement, not scheduling | No | Shows who engaged | Yes |
+| [SocialBu Tier 2](https://appsumo.com/products/socialbu/) | $129 lifetime | 1,500 posts a month | Included. 20 posts with links a month | Yes | Inbox, Listen |
+| [AdaptlyPost Tier 1](https://appsumo.com/products/adaptlypost/) | $59 lifetime | Unlimited | 200 credits a month, 2 per post | Yes, with 180 days of history | No |
+| [Schedule & Chill](https://schedulenchill.com) | Free | 500 posts a month, 2 channels | $9 a month add-on | No. Free dashboard | No |
+| [PostMCP AI](https://www.postmcpai.com) | Free | 20 credits a month | Included | Yes, 1 credit per lookup | No |
+| [Typefully](https://typefully.com) | Free | 10 posts a month, all platforms | Included | No. Analytics are paid only | No |
+| [BulkPublish](https://www.bulkpublish.com) | Free | 30 posts a month, 3 in the queue | Pay-as-you-go credits | Yes | No |
+| [Reach MCP](https://appsumo.com/products/reach-mcp/) | $49 lifetime | Engagement, not scheduling | No | Shows who engaged | Yes |
 
 What to know about each one:
 
